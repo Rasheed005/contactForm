@@ -46,4 +46,4 @@ You can edit the form display as you want e.g. HTML, CSS
 Don't worry about the .gitignore file, it only bypasses the git refferences
 
                                                                                 By:
-                                                                                Emiola Nathaniel A. (+234 7044516019)
+                                                                                PYTHON GROUP 2
